@@ -1,0 +1,9 @@
+-i http://pypi.doubanio.com/simple/
+lxml
+pandas
+requests
+bs4
+matplotlib
+tushare
+configparser
+-e .
